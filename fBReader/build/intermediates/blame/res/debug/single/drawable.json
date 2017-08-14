@@ -1,0 +1,354 @@
+[
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable\\afc_selector_button_ok_saveas.xml",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\exploded-aar\\FBReaderJSimple\\code\\unspecified\\res\\drawable\\afc_selector_button_ok_saveas.xml"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable\\dropdown.xml",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\src\\main\\res\\drawable\\dropdown.xml"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_list_library_tags.png",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\src\\main\\res\\drawable\\ic_list_library_tags.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable\\ambilwarna_target.png",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\exploded-aar\\FBReaderJSimple\\ambilWarna\\unspecified\\res\\drawable\\ambilwarna_target.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_list_library_author.png",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\src\\main\\res\\drawable\\ic_list_library_author.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable\\background_kitkat_blue.xml",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\exploded-aar\\FBReaderJSimple\\superToasts\\unspecified\\res\\drawable\\background_kitkat_blue.xml"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_list_library_permission_denied.png",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\src\\main\\res\\drawable\\ic_list_library_permission_denied.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable\\afc_selector_button_navi_right.xml",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\exploded-aar\\FBReaderJSimple\\code\\unspecified\\res\\drawable\\afc_selector_button_navi_right.xml"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_list_library_books.png",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\src\\main\\res\\drawable\\ic_list_library_books.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable\\popup_close_large.xml",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\src\\main\\res\\drawable\\popup_close_large.xml"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable\\afc_item_file.xml",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\exploded-aar\\FBReaderJSimple\\code\\unspecified\\res\\drawable\\afc_item_file.xml"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable\\panel.xml",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\src\\main\\res\\drawable\\panel.xml"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable\\popup_forward.xml",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\src\\main\\res\\drawable\\popup_forward.xml"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_list_buy.png",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\src\\main\\res\\drawable\\ic_list_buy.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable\\afc_selector_button_location_dark.xml",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\exploded-aar\\FBReaderJSimple\\code\\unspecified\\res\\drawable\\afc_selector_button_location_dark.xml"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_list_library_tag.png",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\src\\main\\res\\drawable\\ic_list_library_tag.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable\\popup_bookmark.xml",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\src\\main\\res\\drawable\\popup_bookmark.xml"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_undobarfocused.xml",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\exploded-aar\\FBReaderJSimple\\superToasts\\unspecified\\res\\drawable\\shape_undobarfocused.xml"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable\\plugin_bookshelf.png",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\src\\main\\res\\drawable\\plugin_bookshelf.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_list_library_zip.png",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\src\\main\\res\\drawable\\ic_list_library_zip.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable\\background_standard_gray.xml",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\exploded-aar\\FBReaderJSimple\\superToasts\\unspecified\\res\\drawable\\background_standard_gray.xml"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable\\background_standard_red.xml",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\exploded-aar\\FBReaderJSimple\\superToasts\\unspecified\\res\\drawable\\background_standard_red.xml"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_list_library_folder.png",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\src\\main\\res\\drawable\\ic_list_library_folder.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable\\afc_selector_button_folders_view_grid.xml",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\exploded-aar\\FBReaderJSimple\\code\\unspecified\\res\\drawable\\afc_selector_button_folders_view_grid.xml"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable\\background_kitkat_red.xml",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\exploded-aar\\FBReaderJSimple\\superToasts\\unspecified\\res\\drawable\\background_kitkat_red.xml"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable\\plugin_cbr.png",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\src\\main\\res\\drawable\\plugin_cbr.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable\\dropdown_pressed.png",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\src\\main\\res\\drawable\\dropdown_pressed.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable\\popup_translate.xml",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\src\\main\\res\\drawable\\popup_translate.xml"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable\\plugin_litres.png",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\src\\main\\res\\drawable\\plugin_litres.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable\\background_standard_purple.xml",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\exploded-aar\\FBReaderJSimple\\superToasts\\unspecified\\res\\drawable\\background_standard_purple.xml"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable\\dropdown_normal.png",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\src\\main\\res\\drawable\\dropdown_normal.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_kitkat_square_undobutton.xml",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\exploded-aar\\FBReaderJSimple\\superToasts\\unspecified\\res\\drawable\\selector_kitkat_square_undobutton.xml"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable\\ambilwarna_arrow_down.png",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\exploded-aar\\FBReaderJSimple\\ambilWarna\\unspecified\\res\\drawable\\ambilwarna_arrow_down.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable\\afc_selector_button_sort_as.xml",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\exploded-aar\\FBReaderJSimple\\code\\unspecified\\res\\drawable\\afc_selector_button_sort_as.xml"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_list_library_book.png",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\src\\main\\res\\drawable\\ic_list_library_book.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_undobarselected.xml",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\exploded-aar\\FBReaderJSimple\\superToasts\\unspecified\\res\\drawable\\shape_undobarselected.xml"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_list_group_open.png",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\src\\main\\res\\drawable\\ic_list_group_open.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable\\background_kitkat_orange.xml",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\exploded-aar\\FBReaderJSimple\\superToasts\\unspecified\\res\\drawable\\background_kitkat_orange.xml"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable\\plugin_djvu.png",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\src\\main\\res\\drawable\\plugin_djvu.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_list_library_recent.png",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\src\\main\\res\\drawable\\ic_list_library_recent.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable\\background_standard_white.xml",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\exploded-aar\\FBReaderJSimple\\superToasts\\unspecified\\res\\drawable\\background_standard_white.xml"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_kitkat_undobarselected.xml",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\exploded-aar\\FBReaderJSimple\\superToasts\\unspecified\\res\\drawable\\shape_kitkat_undobarselected.xml"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_kitkat_undobarfocused.xml",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\exploded-aar\\FBReaderJSimple\\superToasts\\unspecified\\res\\drawable\\shape_kitkat_undobarfocused.xml"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable\\dropdown_selected.png",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\src\\main\\res\\drawable\\dropdown_selected.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable\\background_standard_black.xml",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\exploded-aar\\FBReaderJSimple\\superToasts\\unspecified\\res\\drawable\\background_standard_black.xml"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_list_flag.png",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\src\\main\\res\\drawable\\ic_list_flag.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable\\ambilwarna_arrow_right.png",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\exploded-aar\\FBReaderJSimple\\ambilWarna\\unspecified\\res\\drawable\\ambilwarna_arrow_right.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable\\background_standard_green.xml",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\exploded-aar\\FBReaderJSimple\\superToasts\\unspecified\\res\\drawable\\background_standard_green.xml"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable\\link_default.9.png",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\src\\main\\res\\drawable\\link_default.9.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable\\background_kitkat_white.xml",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\exploded-aar\\FBReaderJSimple\\superToasts\\unspecified\\res\\drawable\\background_kitkat_white.xml"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_list_library_basket.png",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\src\\main\\res\\drawable\\ic_list_library_basket.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_undobutton.xml",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\exploded-aar\\FBReaderJSimple\\superToasts\\unspecified\\res\\drawable\\selector_undobutton.xml"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable\\ambilwarna_cursor.png",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\exploded-aar\\FBReaderJSimple\\ambilWarna\\unspecified\\res\\drawable\\ambilwarna_cursor.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable\\plugin_tts_plus.png",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\src\\main\\res\\drawable\\plugin_tts_plus.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable\\afc_item_folder.xml",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\exploded-aar\\FBReaderJSimple\\code\\unspecified\\res\\drawable\\afc_item_folder.xml"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable\\background_kitkat_green.xml",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\exploded-aar\\FBReaderJSimple\\superToasts\\unspecified\\res\\drawable\\background_kitkat_green.xml"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable\\popup_close.xml",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\src\\main\\res\\drawable\\popup_close.xml"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_kitkat_square_undobarfocused.xml",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\exploded-aar\\FBReaderJSimple\\superToasts\\unspecified\\res\\drawable\\shape_kitkat_square_undobarfocused.xml"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable\\afc_button_location_dark_pressed.xml",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\exploded-aar\\FBReaderJSimple\\code\\unspecified\\res\\drawable\\afc_button_location_dark_pressed.xml"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable\\ambilwarna_hue.png",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\exploded-aar\\FBReaderJSimple\\ambilWarna\\unspecified\\res\\drawable\\ambilwarna_hue.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable\\afc_selector_button_sort_de.xml",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\exploded-aar\\FBReaderJSimple\\code\\unspecified\\res\\drawable\\afc_selector_button_sort_de.xml"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable\\link_pressed.9.png",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\src\\main\\res\\drawable\\link_pressed.9.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable\\popup_share.xml",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\src\\main\\res\\drawable\\popup_share.xml"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_list_library_authors.png",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\src\\main\\res\\drawable\\ic_list_library_authors.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_list_plus.png",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\src\\main\\res\\drawable\\ic_list_plus.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable\\link.xml",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\src\\main\\res\\drawable\\link.xml"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable\\link_selected.9.png",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\src\\main\\res\\drawable\\link_selected.9.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable\\popup_copy.xml",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\src\\main\\res\\drawable\\popup_copy.xml"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_list_group_empty.png",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\src\\main\\res\\drawable\\ic_list_group_empty.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable\\popup_back.xml",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\src\\main\\res\\drawable\\popup_back.xml"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_list_download.png",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\src\\main\\res\\drawable\\ic_list_download.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable\\background_kitkat_black.xml",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\exploded-aar\\FBReaderJSimple\\superToasts\\unspecified\\res\\drawable\\background_kitkat_black.xml"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable\\afc_selector_button_folders_view_list.xml",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\exploded-aar\\FBReaderJSimple\\code\\unspecified\\res\\drawable\\afc_selector_button_folders_view_list.xml"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable\\background_kitkat_purple.xml",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\exploded-aar\\FBReaderJSimple\\superToasts\\unspecified\\res\\drawable\\background_kitkat_purple.xml"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_list_group_closed.png",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\src\\main\\res\\drawable\\ic_list_group_closed.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable\\plugin_calibre_server_integration.png",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\src\\main\\res\\drawable\\plugin_calibre_server_integration.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable\\background_kitkat_gray.xml",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\exploded-aar\\FBReaderJSimple\\superToasts\\unspecified\\res\\drawable\\background_kitkat_gray.xml"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable\\background_standard_blue.xml",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\exploded-aar\\FBReaderJSimple\\superToasts\\unspecified\\res\\drawable\\background_standard_blue.xml"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable\\background_standard_orange.xml",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\exploded-aar\\FBReaderJSimple\\superToasts\\unspecified\\res\\drawable\\background_standard_orange.xml"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable\\afc_selector_button_navi_left.xml",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\exploded-aar\\FBReaderJSimple\\code\\unspecified\\res\\drawable\\afc_selector_button_navi_left.xml"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable\\plugin_pdf.png",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\src\\main\\res\\drawable\\plugin_pdf.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_list_library_search.png",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\src\\main\\res\\drawable\\ic_list_library_search.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable\\afc_selector_button_create_folder.xml",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\exploded-aar\\FBReaderJSimple\\code\\unspecified\\res\\drawable\\afc_selector_button_create_folder.xml"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable\\drag_icon.png",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\src\\main\\res\\drawable\\drag_icon.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_kitkat_undobutton.xml",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\exploded-aar\\FBReaderJSimple\\superToasts\\unspecified\\res\\drawable\\selector_kitkat_undobutton.xml"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_kitkat_square_undobarselected.xml",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\exploded-aar\\FBReaderJSimple\\superToasts\\unspecified\\res\\drawable\\shape_kitkat_square_undobarselected.xml"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_list_downloading.png",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\src\\main\\res\\drawable\\ic_list_downloading.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_list_library_favorites.png",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\src\\main\\res\\drawable\\ic_list_library_favorites.png"
+    }
+]

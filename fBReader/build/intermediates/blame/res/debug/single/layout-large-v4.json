@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\book_popup.xml",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\src\\main\\res\\layout-large\\book_popup.xml"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\layout-large-v4\\book_popup_night.xml",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\src\\main\\res\\layout-large\\book_popup_night.xml"
+    }
+]

@@ -1,0 +1,218 @@
+[
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_light_exit.png",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\exploded-aar\\FBReaderJSimple\\superToasts\\unspecified\\res\\drawable-mdpi-v4\\icon_light_exit.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\afc_ic_menu_home.png",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\exploded-aar\\FBReaderJSimple\\code\\unspecified\\res\\drawable-mdpi-v4\\afc_ic_menu_home.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_dark_refresh.png",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\exploded-aar\\FBReaderJSimple\\superToasts\\unspecified\\res\\drawable-mdpi-v4\\icon_dark_refresh.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\afc_button_folders_view_list_pressed.png",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\exploded-aar\\FBReaderJSimple\\code\\unspecified\\res\\drawable-mdpi-v4\\afc_button_folders_view_list_pressed.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\afc_file.png",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\exploded-aar\\FBReaderJSimple\\code\\unspecified\\res\\drawable-mdpi-v4\\afc_file.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\afc_button_folders_view_grid_pressed.png",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\exploded-aar\\FBReaderJSimple\\code\\unspecified\\res\\drawable-mdpi-v4\\afc_button_folders_view_grid_pressed.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_light_undo.png",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\exploded-aar\\FBReaderJSimple\\superToasts\\unspecified\\res\\drawable-mdpi-v4\\icon_light_undo.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\afc_file_audio.png",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\exploded-aar\\FBReaderJSimple\\code\\unspecified\\res\\drawable-mdpi-v4\\afc_file_audio.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\afc_button_navi_left_pressed.png",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\exploded-aar\\FBReaderJSimple\\code\\unspecified\\res\\drawable-mdpi-v4\\afc_button_navi_left_pressed.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\afc_file_image.png",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\exploded-aar\\FBReaderJSimple\\code\\unspecified\\res\\drawable-mdpi-v4\\afc_file_image.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\afc_button_navi_right.png",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\exploded-aar\\FBReaderJSimple\\code\\unspecified\\res\\drawable-mdpi-v4\\afc_button_navi_right.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\afc_folder.png",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\exploded-aar\\FBReaderJSimple\\code\\unspecified\\res\\drawable-mdpi-v4\\afc_folder.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\afc_button_navi_left_disabled.png",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\exploded-aar\\FBReaderJSimple\\code\\unspecified\\res\\drawable-mdpi-v4\\afc_button_navi_left_disabled.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\afc_button_folders_view_grid_disabled.png",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\exploded-aar\\FBReaderJSimple\\code\\unspecified\\res\\drawable-mdpi-v4\\afc_button_folders_view_grid_disabled.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\afc_button_folders_view_list_disabled.png",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\exploded-aar\\FBReaderJSimple\\code\\unspecified\\res\\drawable-mdpi-v4\\afc_button_folders_view_list_disabled.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_light_redo.png",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\exploded-aar\\FBReaderJSimple\\superToasts\\unspecified\\res\\drawable-mdpi-v4\\icon_light_redo.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_dark_undo.png",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\exploded-aar\\FBReaderJSimple\\superToasts\\unspecified\\res\\drawable-mdpi-v4\\icon_dark_undo.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\afc_ic_menu_sort_by_name_desc.png",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\exploded-aar\\FBReaderJSimple\\code\\unspecified\\res\\drawable-mdpi-v4\\afc_ic_menu_sort_by_name_desc.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\afc_button_folders_view_list.png",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\exploded-aar\\FBReaderJSimple\\code\\unspecified\\res\\drawable-mdpi-v4\\afc_button_folders_view_list.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\afc_button_ok_saveas.png",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\exploded-aar\\FBReaderJSimple\\code\\unspecified\\res\\drawable-mdpi-v4\\afc_button_ok_saveas.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_dark_info.png",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\exploded-aar\\FBReaderJSimple\\superToasts\\unspecified\\res\\drawable-mdpi-v4\\icon_dark_info.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\afc_button_navi_right_pressed.png",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\exploded-aar\\FBReaderJSimple\\code\\unspecified\\res\\drawable-mdpi-v4\\afc_button_navi_right_pressed.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\afc_button_create_folder_disabled.png",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\exploded-aar\\FBReaderJSimple\\code\\unspecified\\res\\drawable-mdpi-v4\\afc_button_create_folder_disabled.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\afc_ic_menu_reload.png",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\exploded-aar\\FBReaderJSimple\\code\\unspecified\\res\\drawable-mdpi-v4\\afc_ic_menu_reload.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_dark_edit.png",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\exploded-aar\\FBReaderJSimple\\superToasts\\unspecified\\res\\drawable-mdpi-v4\\icon_dark_edit.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\afc_ic_menu_sort_by_date_desc.png",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\exploded-aar\\FBReaderJSimple\\code\\unspecified\\res\\drawable-mdpi-v4\\afc_ic_menu_sort_by_date_desc.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_dark_exit.png",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\exploded-aar\\FBReaderJSimple\\superToasts\\unspecified\\res\\drawable-mdpi-v4\\icon_dark_exit.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\afc_button_folders_view_grid.png",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\exploded-aar\\FBReaderJSimple\\code\\unspecified\\res\\drawable-mdpi-v4\\afc_button_folders_view_grid.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\afc_ic_menu_sort_by_name_asc.png",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\exploded-aar\\FBReaderJSimple\\code\\unspecified\\res\\drawable-mdpi-v4\\afc_ic_menu_sort_by_name_asc.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\afc_button_navi_left.png",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\exploded-aar\\FBReaderJSimple\\code\\unspecified\\res\\drawable-mdpi-v4\\afc_button_navi_left.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\afc_ic_menu_gridview.png",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\exploded-aar\\FBReaderJSimple\\code\\unspecified\\res\\drawable-mdpi-v4\\afc_ic_menu_gridview.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\afc_file_plain_text.png",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\exploded-aar\\FBReaderJSimple\\code\\unspecified\\res\\drawable-mdpi-v4\\afc_file_plain_text.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\afc_file_video.png",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\exploded-aar\\FBReaderJSimple\\code\\unspecified\\res\\drawable-mdpi-v4\\afc_file_video.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\afc_button_create_folder_pressed.png",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\exploded-aar\\FBReaderJSimple\\code\\unspecified\\res\\drawable-mdpi-v4\\afc_button_create_folder_pressed.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\afc_file_compressed.png",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\exploded-aar\\FBReaderJSimple\\code\\unspecified\\res\\drawable-mdpi-v4\\afc_file_compressed.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_dark_redo.png",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\exploded-aar\\FBReaderJSimple\\superToasts\\unspecified\\res\\drawable-mdpi-v4\\icon_dark_redo.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_dark_save.png",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\exploded-aar\\FBReaderJSimple\\superToasts\\unspecified\\res\\drawable-mdpi-v4\\icon_dark_save.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\afc_file_disabled.png",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\exploded-aar\\FBReaderJSimple\\code\\unspecified\\res\\drawable-mdpi-v4\\afc_file_disabled.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\afc_button_navi_right_disabled.png",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\exploded-aar\\FBReaderJSimple\\code\\unspecified\\res\\drawable-mdpi-v4\\afc_button_navi_right_disabled.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\afc_button_ok_saveas_pressed.png",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\exploded-aar\\FBReaderJSimple\\code\\unspecified\\res\\drawable-mdpi-v4\\afc_button_ok_saveas_pressed.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_dark_share.png",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\exploded-aar\\FBReaderJSimple\\superToasts\\unspecified\\res\\drawable-mdpi-v4\\icon_dark_share.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_light_share.png",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\exploded-aar\\FBReaderJSimple\\superToasts\\unspecified\\res\\drawable-mdpi-v4\\icon_light_share.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\afc_context_menu_item_divider.png",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\exploded-aar\\FBReaderJSimple\\code\\unspecified\\res\\drawable-mdpi-v4\\afc_context_menu_item_divider.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\afc_ic_menu_sort_by_size_desc.png",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\exploded-aar\\FBReaderJSimple\\code\\unspecified\\res\\drawable-mdpi-v4\\afc_ic_menu_sort_by_size_desc.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_light_save.png",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\exploded-aar\\FBReaderJSimple\\superToasts\\unspecified\\res\\drawable-mdpi-v4\\icon_light_save.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_light_info.png",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\exploded-aar\\FBReaderJSimple\\superToasts\\unspecified\\res\\drawable-mdpi-v4\\icon_light_info.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_light_edit.png",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\exploded-aar\\FBReaderJSimple\\superToasts\\unspecified\\res\\drawable-mdpi-v4\\icon_light_edit.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\afc_ic_menu_sort_by_date_asc.png",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\exploded-aar\\FBReaderJSimple\\code\\unspecified\\res\\drawable-mdpi-v4\\afc_ic_menu_sort_by_date_asc.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\afc_ic_menu_sort_by_size_asc.png",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\exploded-aar\\FBReaderJSimple\\code\\unspecified\\res\\drawable-mdpi-v4\\afc_ic_menu_sort_by_size_asc.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\afc_folder_locked.png",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\exploded-aar\\FBReaderJSimple\\code\\unspecified\\res\\drawable-mdpi-v4\\afc_folder_locked.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\afc_ic_menu_listview.png",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\exploded-aar\\FBReaderJSimple\\code\\unspecified\\res\\drawable-mdpi-v4\\afc_ic_menu_listview.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\icon_light_refresh.png",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\exploded-aar\\FBReaderJSimple\\superToasts\\unspecified\\res\\drawable-mdpi-v4\\icon_light_refresh.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\afc_folder_disabled.png",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\exploded-aar\\FBReaderJSimple\\code\\unspecified\\res\\drawable-mdpi-v4\\afc_folder_disabled.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\afc_button_create_folder.png",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\fBReader\\build\\intermediates\\exploded-aar\\FBReaderJSimple\\code\\unspecified\\res\\drawable-mdpi-v4\\afc_button_create_folder.png"
+    }
+]

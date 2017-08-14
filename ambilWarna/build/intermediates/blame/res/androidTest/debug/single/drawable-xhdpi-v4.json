@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\ambilWarna\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ambilwarna_cursor.png",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\ambilWarna\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ambilwarna_cursor.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\ambilWarna\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ambilwarna_arrow_right.png",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\ambilWarna\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ambilwarna_arrow_right.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\ambilWarna\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ambilwarna_arrow_down.png",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\ambilWarna\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ambilwarna_arrow_down.png"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\ambilWarna\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ambilwarna_target.png",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\ambilWarna\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ambilwarna_target.png"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\code\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\afc_selector_button_navi_left.xml",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\code\\build\\intermediates\\bundles\\debug\\res\\drawable\\afc_selector_button_navi_left.xml"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\code\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\afc_item_folder.xml",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\code\\build\\intermediates\\bundles\\debug\\res\\drawable\\afc_item_folder.xml"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\code\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\afc_selector_button_folders_view_grid.xml",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\code\\build\\intermediates\\bundles\\debug\\res\\drawable\\afc_selector_button_folders_view_grid.xml"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\code\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\afc_selector_button_folders_view_list.xml",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\code\\build\\intermediates\\bundles\\debug\\res\\drawable\\afc_selector_button_folders_view_list.xml"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\code\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\afc_button_location_dark_pressed.xml",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\code\\build\\intermediates\\bundles\\debug\\res\\drawable\\afc_button_location_dark_pressed.xml"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\code\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\afc_selector_button_navi_right.xml",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\code\\build\\intermediates\\bundles\\debug\\res\\drawable\\afc_selector_button_navi_right.xml"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\code\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\afc_selector_button_create_folder.xml",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\code\\build\\intermediates\\bundles\\debug\\res\\drawable\\afc_selector_button_create_folder.xml"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\code\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\afc_selector_button_sort_as.xml",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\code\\build\\intermediates\\bundles\\debug\\res\\drawable\\afc_selector_button_sort_as.xml"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\code\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\afc_selector_button_ok_saveas.xml",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\code\\build\\intermediates\\bundles\\debug\\res\\drawable\\afc_selector_button_ok_saveas.xml"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\code\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\afc_selector_button_sort_de.xml",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\code\\build\\intermediates\\bundles\\debug\\res\\drawable\\afc_selector_button_sort_de.xml"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\code\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\afc_item_file.xml",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\code\\build\\intermediates\\bundles\\debug\\res\\drawable\\afc_item_file.xml"
+    },
+    {
+        "merged": "D:\\WorkDemo\\FBReaderJSimple\\code\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\afc_selector_button_location_dark.xml",
+        "source": "D:\\WorkDemo\\FBReaderJSimple\\code\\build\\intermediates\\bundles\\debug\\res\\drawable\\afc_selector_button_location_dark.xml"
+    }
+]
